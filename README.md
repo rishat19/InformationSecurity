@@ -9,3 +9,5 @@
 [Задание 3](https://github.com/rishat19/InformationSecurity/blob/main/Task03.pdf)
 
 [Лабораторная работа 1](https://github.com/rishat19/InformationSecurity/blob/main/ganiev_lab1_ИБ.docx)
+
+[Лабораторная работа 2](https://github.com/rishat19/InformationSecurity/blob/main/ganiev_lab2_ИБ.docx)
