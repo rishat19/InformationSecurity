@@ -19,3 +19,5 @@
 [Лабораторная работа 5](https://github.com/rishat19/InformationSecurity/blob/main/ganiev_lab5_ИБ.docx)
 
 [Лабораторная работа 6](https://github.com/rishat19/InformationSecurity/blob/main/ganiev_lab6_ИБ.docx)
+
+[Лабораторная работа 7](https://github.com/rishat19/InformationSecurity/blob/main/ganiev_lab7_ИБ.docx)
